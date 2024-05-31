@@ -1,0 +1,33 @@
+#weather
+{
+
+    width: 400px;
+ border: 1px solid black;
+ margin: 100px auto;
+ background-color: blue;  
+ text-align: center; 
+}
+*{
+ color: white;
+ margin: 0;
+
+}
+
+#row{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+.col{
+
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+#main{
+    
+}
+#searchbox{
+    color: black;
+}
